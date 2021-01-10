@@ -13,7 +13,7 @@
     <img style="margin-right:10px" align="left" alt="instagram" width="29px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />    
 </a>
 <a href="https://www.linkedin.com/in/alan-antonio-alvarez-s%C3%A1nchez-2937591a5/">
-    <img style="margin-right:10px" align="left" alt="linkedin" width="29px" src="https://assets.stickpng.com/images/58e91afdeb97430e81906504.png" />    
+    <img style="margin-right:10px" align="left" alt="linkedin" width="29px" src="https://masempresas.cea.es/wp-content/uploads/2018/11/LINKEDIN.png" />    
 </a>
 <a href="https://www.youtube.com/channel/UCtWuyLR7T3Fqz6jUdv8HdLQ">
     <img style="margin-right:10px" align="left" alt="youtube" width="29px" src="https://images.vexels.com/media/users/3/137425/isolated/preview/f2ea1ded4d037633f687ee389a571086-logotipo-del-icono-de-youtube-by-vexels.png" />    
