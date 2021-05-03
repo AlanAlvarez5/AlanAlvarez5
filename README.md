@@ -25,6 +25,8 @@
     <img style="margin-right:10px" align="left" alt="dev" width="29px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" />    
 </a>
 
+<br>
+
 ## About me
 
 - 🔭 I’m currently working on Eureka DI
