@@ -6,7 +6,7 @@
 |||
 
 ## My Social Profile
-<p align="cennter">
+<p align="center">
 <a href="https://www.facebook.com/alan.alvarez.58367">
     <img style="margin-right:10px" align="left" alt="facebook" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />    
 </a>
