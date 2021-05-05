@@ -6,6 +6,7 @@
 |||
 
 ## My Social Profile
+<p align="cennter">
 <a href="https://www.facebook.com/alan.alvarez.58367">
     <img style="margin-right:10px" align="left" alt="facebook" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />    
 </a>
@@ -24,7 +25,7 @@
 <a href="https://dev.to/alanalvarez5">
     <img style="margin-right:10px" align="left" alt="dev" width="29px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" />    
 </a>
-
+</p>
 <br>
 
 ## About me
