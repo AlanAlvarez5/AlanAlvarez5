@@ -27,9 +27,3 @@
     </a>
 </p>
 <br>
-
-## About me
-
-- 🔭 I’m currently working on Eureka DI
-- 🌱 I’m currently learning AWS, Power BI, PySpark
-
