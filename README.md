@@ -1,8 +1,13 @@
-# ¡Hello There! 🚀
+### ¡Hello There! 🚀
 
 ¡Bienvenido a mi perfil de GitHub!
 
 Soy Alan, un apasionado del desarrollo de software con experiencia en una variedad de tecnologías y plataformas. Mi objetivo es crear soluciones innovadoras y de alta calidad que satisfagan las necesidades de los usuarios y ayuden a impulsar el éxito del negocio.
+
+|||
+|---|---|
+|![lintang github stat](https://github-readme-stats.vercel.app/api?username=AlanAlvarez5&show_icons=true&hide_border=true&theme=vue) | ![lintang top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanAlvarez5&layout=compact&hide_border=true&theme=vue) |
+|||
 
 ## Tecnologías
 
@@ -32,12 +37,6 @@ Soy Alan, un apasionado del desarrollo de software con experiencia en una varied
 
 - AWS Certified Developer
 - AWS Cloud Practitioner
-
-## Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlanAlvarez5&show_icons=true&hide_border=true&theme=vue)
-
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanAlvarez5&layout=compact&hide_border=true&theme=vue)
 
 
 ¡Gracias por visitar mi perfil! 😊
